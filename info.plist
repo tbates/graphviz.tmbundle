@@ -7,7 +7,7 @@
 	<key>contactName</key>
 	<string>Torsten Becker</string>
 	<key>description</key>
-	<string>Support for making graphs using the .dot Graphviz visualization language – &lt;a href="http://www.graphviz.org"&gt;more infor&lt;/a&gt;.</string>
+	<string>Support for making graphs using the .dot Graphviz visualization language – &lt;a href="http://www.graphviz.org"&gt;more info&lt;/a&gt;.</string>
 	<key>mainMenu</key>
 	<dict>
 		<key>items</key>
